@@ -1,5 +1,5 @@
 # **Recurrent-Neural-Network**
-<center><img src="Images/TFlow.png"/></center><center><img src="Images/Keras.png"/></center>
+<center><img src="Images/TFlow.png"/></center><center><img src="Images/keras.png"/></center>
 
 ## Sentiment Analysis of Film Reviews<br> [Recurrent Neural Network using Python, TensorFlow & Keras]
 
