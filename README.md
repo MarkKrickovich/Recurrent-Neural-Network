@@ -1,7 +1,7 @@
 # **Recurrent-Neural-Network**
 <p float="left">
   <img src="Images/TFlow.png" width="200" />
-  <img src="Images/keras.png" width="125" /> 
+  <img src="Images/keras.png" width="120" /> 
  </p>
 
 
