@@ -1,11 +1,9 @@
 # **Recurrent-Neural-Network**
+## Sentiment Analysis of Film Reviews<br> [Recurrent Neural Network using Python, TensorFlow & Keras]
 <p float="left">
   <img src="Images/TFlow.png" width="200" />
-  <img src="Images/keras.png" width="120" /> 
+  <img src="Images/keras.png" width="125" /> 
  </p>
-
-
-## Sentiment Analysis of Film Reviews<br> [Recurrent Neural Network using Python, TensorFlow & Keras]
 
 **Recurrent Nueral Networks:** RNN's are very powerful tools for wide variety of problems, used for sequences of data, including languages (which are sequences of words).  As it turns out, **Deep Learning** is especially suitable to predicting sequences of events, like which videos you're likely to watch next.  So this has applications and recommender systems that deal with situations where the order of events matters.  
 
