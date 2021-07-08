@@ -1,4 +1,4 @@
-# Recurrent-Neural-Network
+# **Recurrent-Neural-Network**
 <center><img src="Images/surpriselib.png"/></center>
 
 ## Sentiment Analysis of Film Reviews<br> [Recurrent Neural Network using Python, TensorFlow & Keras]
