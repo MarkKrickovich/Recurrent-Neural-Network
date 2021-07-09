@@ -35,6 +35,6 @@ I achieved an accuracy of ~ 80%, using Keras model.evaluate() function.  As I un
 2. Fix Datetime day grouping
 
 ### Long-Short-Term-Memory LSTMs
-RNNs have difficulty learning long-term-dependencies. Long Short Term Memory networks – usually just called “LSTMs” – are a special kind of RNN, capable of learning long-term dependencies.
+RNNs have difficulty learning long-term-dependencies. Long Short Term Memory networks – usually just called “LSTMs” – are a special kind of RNN, capable of learning long-term dependencies. You can find a lengthy article [in this colah's blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/).
 
 <center><img src="Images/LSTM.png" width="700"></center>
