@@ -36,4 +36,5 @@ I achieved an accuracy of ~ 80%, using Keras model.evaluate() function.  As I un
 
 ### Long-Short-Term-Memory LSTMs
 RNNs have difficulty learning long-term-dependencies. Long Short Term Memory networks – usually just called “LSTMs” – are a special kind of RNN, capable of learning long-term dependencies.
-  <img src="Images/LSTM.png" width="700" />
+
+<center><img src="Images/LSTM.png" width="700"></center>
