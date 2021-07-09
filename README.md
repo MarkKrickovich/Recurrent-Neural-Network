@@ -28,5 +28,9 @@ Finally, as this is a **Binary Classification** problem, I used the **binary_cro
 I **Trained** the model using 15 epochs, although only 8 turned out to be necessary as the valuation accuracy approached ~80 at that time. 
 
 ### Results
-I achieved an accuracy of ~ 80%, as 
+I achieved an accuracy of ~ 80%, using Keras model.evaluate() function.  As I understand, model.evaluate() just takes your neural network as it is (at epoch 15), computes predictions, and then calculates the loss.  I am investigating other methods to evaluate TensorFlow Keras Models.
+
+### Additional Learning Topics:
+1. Evaluation Methods of TensorFlow Keras models.
+2. 
 
