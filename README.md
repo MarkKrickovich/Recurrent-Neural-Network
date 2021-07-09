@@ -30,8 +30,10 @@ I **Trained** the model using 15 epochs, although only 8 turned out to be necess
 ### Results
 I achieved an accuracy of ~ 80%, using Keras model.evaluate() function.  As I understand, model.evaluate() just takes your neural network as it is (at epoch 15), computes predictions, and then calculates the loss.  I am investigating other methods to evaluate TensorFlow Keras Models.
 
-### Additional Learning Topics:
+### Additional Learning Topics
 1. Evaluation Methods of TensorFlow Keras models.
 2. Fix Datetime day grouping
 
-  <img src="Images/LSTM.png" width="125" />
+### Long-Short-Term-Memory LSTMs
+RNNs have difficulty learning long-term-dependencies. Long Short Term Memory networks – usually just called “LSTMs” – are a special kind of RNN, capable of learning long-term dependencies.
+  <img src="Images/LSTM.png" width="700" />
