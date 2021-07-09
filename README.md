@@ -21,8 +21,8 @@ I am using an Recurrent Neural Network, which will be trained how to "read" movi
 ### Model
 The RNN was trained how to "read" movie reviews and guess whether the author liked the movie or not from them. The model was trained on the first 80 words from each movie review, to limit the computing expense; while only the 20,000 most populart words were selected from the IMDB dataset. This is an example of a "Sequence to Vector" RNN Problem, where I take a sequence of words, that is a movie review, and output vector that is a single binary value of like and dislike. 
 The RNN Model has Three Layers:
-1. Embedding layer - this is just a step that converts the input data into dense vectors of fixed size that's better suited for a neural network. You generally see this in conjunction with index-based text data like we have here.
-2. LSTM layer for the RNN itself. Specify 128 to match the output size of the Embedding layer, and dropout terms to avoid overfitting, which RNN's are particularly prone to.
-3. Sigmoid Activation Function to choose our binay sentiment classification of 0 or 1.
-Finally, as this is a binary classification problem, we'll use the binary_crossentropy loss function. And the Adam optimizer is usually a good choice (feel free to try others.)
+1. **Embedding Layer** - converts the input data into dense vectors of fixed size that's better suited for a neural network. 
+2. **LSTM Layer** is created for the RNN itself. I specify 128 to match the output size of the Embedding layer, and dropout terms of 0.2 to avoid overfitting, which RNN's are particularly prone to.
+3. **Sigmoid Activation Function** to choose our binary sentiment classification of 0 or 1.<br>
+Finally, as this is a binary classification problem, I used the binary_crossentropy loss function. And the Adam optimizer.  
 
