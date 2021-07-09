@@ -6,7 +6,7 @@
  </p>
  
 I trained an Recurrent Neural Network to classify if a written movie review was positive or negative.
-I achieved an accuracy score of ~80% using only the first 80 lines of each movie review.  For this project, I viewed a beginners TensorFlow lesson from SimpliLearn.  
+I achieved an accuracy score of ~80% using only the first 80 lines of each movie review.  This project is part of a LinkedIn Learning Course "Building Recommender Systems with Machine Learning and AI".   
 
 **Recurrent Nueral Networks:** RNN's are very powerful tools for wide variety of problems, used for sequences of data, including languages (which are sequences of words).  As it turns out, **Deep Learning** is especially suitable to predicting sequences of events, like which videos you're likely to watch next.  So this has applications and recommender systems that deal with situations where the order of events matters.  
 
