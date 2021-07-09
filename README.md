@@ -33,4 +33,5 @@ I achieved an accuracy of ~ 80%, using Keras model.evaluate() function.  As I un
 ### Additional Learning Topics:
 1. Evaluation Methods of TensorFlow Keras models.
 2. Fix Datetime day grouping
-3. 
+
+  <img src="Images/LSTM.png" width="125" />
