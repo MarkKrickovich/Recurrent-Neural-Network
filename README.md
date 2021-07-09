@@ -24,5 +24,9 @@ The RNN Model has Three Layers:
 1. **Embedding Layer** - converts the input data into dense vectors of fixed size that's better suited for a neural network. 
 2. **LSTM Layer** is created for the RNN itself. I specify 128 to match the output size of the Embedding layer, and dropout terms of 0.2 to avoid overfitting, which RNN's are particularly prone to.
 3. **Sigmoid Activation Function** to choose our binary sentiment classification of 0 or 1.<br>
-Finally, as this is a binary classification problem, I used the binary_crossentropy loss function. And the Adam optimizer.  
+Finally, as this is a **Binary Classification** problem, I used the **binary_crossentropy loss function**. And the Adam optimizer. 
+I **Trained** the model using 15 epochs, although only 8 turned out to be necessary as the valuation accuracy approached ~80 at that time. 
+
+### Results
+I achieved an accuracy of ~ 80%, as 
 
