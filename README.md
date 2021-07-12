@@ -1,8 +1,8 @@
 # **Recurrent-Neural-Network: Sentiment Analysis on Film Reviews**
 ## Sentiment Analysis of Film Reviews<br> [Recurrent Neural Network using Python, TensorFlow & Keras]
 <p float="left">
-  <img src="Images/TFlow.png" width="220" />
-  <img src="Images/keras.png" width="125" /> 
+  <img src="Images/TFlow.png" width="175" />
+  <img src="Images/keras.png" width="100" /> 
  </p>
  
 I trained an Recurrent Neural Network to classify if a written movie review was positive or negative.
